@@ -20,6 +20,3 @@ class Client:
 
     def getStatusLists(self, limit):
         pass
-
-    def update(self, update):
-        pass
