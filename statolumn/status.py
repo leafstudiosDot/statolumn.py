@@ -10,7 +10,7 @@ class Status:
     def getReplies(self):
         pass
 
-    def addComment(self, client, comment):
+    def addReply(self, client, comment):
         pass
 
     def delete(self, client):
